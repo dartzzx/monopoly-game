@@ -1,0 +1,1 @@
+Monopoly-Game is a simple C console implementation of the classic Monopoly board game, created to practice basic programming concepts such as game logic, player turns, dice rolling, and property management.
